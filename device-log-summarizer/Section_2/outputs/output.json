@@ -1,0 +1,30 @@
+{
+    "aggregated_data": [
+        {
+            "device_id": "DEV_A",
+            "total_records": 10,
+            "average_temperature": 42.49,
+            "error_count": 2
+        },
+        {
+            "device_id": "DEV_C",
+            "total_records": 10,
+            "average_temperature": 80.0,
+            "error_count": 2
+        },
+        {
+            "device_id": "DEV_D",
+            "total_records": 10,
+            "average_temperature": 25.0,
+            "error_count": 0
+        },
+        {
+            "device_id": "DEV_E",
+            "total_records": 10,
+            "average_temperature": 65.00,
+            "error_count": 3
+        }
+    ],
+    "devices_skipped": 2,
+    "devices_invalid": 0
+}
