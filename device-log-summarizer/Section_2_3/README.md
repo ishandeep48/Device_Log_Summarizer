@@ -46,4 +46,8 @@ python chart.py
 
 You will get a bar chart now
 
+## Demo Pic
+
+<img src="./assets/BC_sensor.png" alt="Demo of the barchart with the file 'device_telemetry_edge_cases'">
+
 See `PROMPT_LOG.md` for AI prompting and chart improvement details.
